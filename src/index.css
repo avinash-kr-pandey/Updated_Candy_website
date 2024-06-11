@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.Productsimg img {
+  transition: all 0.5s;
+}
+.Productsimg img:hover {
+  scale: 1.1;
+}
